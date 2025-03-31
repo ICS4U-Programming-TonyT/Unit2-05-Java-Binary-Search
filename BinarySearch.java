@@ -20,7 +20,7 @@ final class BinarySearch {
      */
     private BinarySearch() {
         throw new IllegalStateException("Utility class");
-    }    
+    }
     /**
      * This is the number of brackets to generate.
      */
